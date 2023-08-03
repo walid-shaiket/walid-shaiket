@@ -1,7 +1,7 @@
 - 👋 Hi, I’m walid-shaiket.
 - 👀 I’m interested in Data Engineering, Data Science, Business Intelligence, and Data Analytics.
-- 🌱 I’m currently learning things realted to Azure, AWS, Snowflake, and Machine Learning.
-- 💞️ I’m looking to collaborate on any Data Engineering, Data science and BI related projects.
+- 🌱 I’m currently doing things related to Azure, AWS, Snowflake, and Machine Learning.
+- 💞️ I’m looking to collaborate on any Data Engineering, Data Science, Daya Analytics, and BI-related projects.
 - 📫 Reach me at walid.iut06@gmail.com 
 
 <!---
